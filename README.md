@@ -5,16 +5,27 @@ A modern AI-powered Notes App built using Jetpack Compose, Room, Hilt, and Clean
 ✨ Features
 
 🖊️ Core Note Features
+
 📌 Create, update, and delete notes
+
 🎨 Choose a color for each note
+
 📂 Sort notes by Title, Date, or Color
+
 🔀 Toggle between Ascending/Descending order
+
 ✅ Undo delete operation via Snackbar
+
 📱 Built fully using Jetpack Compose
+
 📐 Clean Architecture: Domain, Data, Presentation
+
 💉 Dependency Injection with Hilt
+
 💾 Local persistence with Room Database
+
 ⏱ Coroutines + Flow for reactive data handling
+
 🔀 Seamless navigation with Navigation Compose
 
 🔒 Security
@@ -24,12 +35,19 @@ A modern AI-powered Notes App built using Jetpack Compose, Room, Hilt, and Clean
 🤖 AI-Powered Features
 
 ✂️ Summarize Notes → Generate quick summaries of long notes
+
 ✍️ Writing Enhancement → Improve clarity and grammar instantly
+
 📝 Grammar & Style Check → AI-powered corrections and suggestions
+
 🌍 Translate Notes → Convert notes into different languages
+
 🎙️ Speech to Text → Dictate notes hands-free
+
 🔊 Text to Speech → Listen to notes with natural voice playback
+
 ⚡ Powered by Groq API for fast and reliable AI tasks
+
 
 🛠 Tech Stack
 
