@@ -3,6 +3,7 @@
 A modern AI-powered Notes App built using Jetpack Compose, Room, Hilt, and Clean Architecture principles. This app allows users to create, edit, organize, and secure their notes with a beautiful UI, smooth animations, and intelligent AI features.
 
 ✨ Features
+
 🖊️ Core Note Features
 📌 Create, update, and delete notes
 🎨 Choose a color for each note
@@ -17,9 +18,11 @@ A modern AI-powered Notes App built using Jetpack Compose, Room, Hilt, and Clean
 🔀 Seamless navigation with Navigation Compose
 
 🔒 Security
+
 🔐 Biometric Authentication (Fingerprint/Face Unlock) to protect notes at app start
 
 🤖 AI-Powered Features
+
 ✂️ Summarize Notes → Generate quick summaries of long notes
 ✍️ Writing Enhancement → Improve clarity and grammar instantly
 📝 Grammar & Style Check → AI-powered corrections and suggestions
@@ -29,6 +32,7 @@ A modern AI-powered Notes App built using Jetpack Compose, Room, Hilt, and Clean
 ⚡ Powered by Groq API for fast and reliable AI tasks
 
 🛠 Tech Stack
+
 Jetpack Compose - Modern declarative UI Toolkit
 Room Database - Offline-first local storage
 Hilt - Dependency Injection framework
